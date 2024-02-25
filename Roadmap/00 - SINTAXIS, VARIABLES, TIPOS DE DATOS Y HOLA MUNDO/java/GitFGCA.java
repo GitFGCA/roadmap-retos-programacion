@@ -18,6 +18,6 @@ public class GitFGCA {
 public static void main(String[] args) {
 
     System.out.println("Hello World!");
-
+    System.out.println("Hola Mundo!");
     }
 }
